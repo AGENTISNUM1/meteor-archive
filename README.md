@@ -1,7 +1,7 @@
 # Meteor Archive
 
 > [!NOTE]
-> This is not currently being worked on, as I have lost motivation.
+> Continued by Wizard, please help to contribute!
 
 A Meteor Client archive. *(and Starscript, Orbit, Meteor Baritone, & Discord Ipc)*
 
